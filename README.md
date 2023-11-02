@@ -38,13 +38,13 @@ Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar e
 2 - Escribe git clone, y luego pega la URL que copiaste antes.
 
 ```
-$ git clone [https://github.com/NicolasHerrera06/Challenge_SigloXXI.git]
+$ git clone https://github.com/NicolasHerrera06/Challenge_SigloXXI.git
 ```
 
 3 - Presiona Enter para crear tu clon local.
 
 ```
-$ git clone [https://github.com/NicolasHerrera06/Challenge_SigloXXI.git]
+$ git clone https://github.com/NicolasHerrera06/Challenge_SigloXXI.git
 > Cloning into `Spoon-Knife`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
@@ -58,11 +58,11 @@ $ git clone [https://github.com/NicolasHerrera06/Challenge_SigloXXI.git]
 Las herramientas que se utilizaron para crear este  proyecto fueron:
 
 
-* [Azure](https://azure.microsoft.com/es-es/)) - Plataforma en la nube
-* [Spark](https://spark.apache.org/docs/latest/api/python/index.html)) - El lenguaje de programación usado
+* [Azure](https://azure.microsoft.com/es-es/) - Plataforma en la nube
+* [Spark](https://spark.apache.org/docs/latest/api/python/index.html) - El lenguaje de programación usado
 * [Python](https://www.python.org/) - El lenguaje de programación usado
 * [Databricks](https://azure.microsoft.com/es-es/products/databricks) - Plataforma de procesamiento utilizada
-* [Azure SQL Database](https://azure.microsoft.com/en-us/products/azure-sql/database)) - Base de datos utilizada
+* [Azure SQL Database](https://azure.microsoft.com/en-us/products/azure-sql/database) - Base de datos utilizada
 
 ## Autor ✒️
 * **Nicolás Herrera** - *Data Engineer* - (https://github.com/NicolasHerrera06)

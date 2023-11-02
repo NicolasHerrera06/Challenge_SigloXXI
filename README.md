@@ -20,7 +20,7 @@ La API pública que se utilizó fue Coin Gecko
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
-https://github.com/NicolasHerrera06/Data_Science_Proyecto_Final
+https://github.com/NicolasHerrera06/Challenge_SigloXXI
 
 
 ### Pre-requisitos 📋

@@ -2,7 +2,7 @@
 ## Data Engineer
 ### Azure
 
-Este repositorio pertener a un desafio para la posición de data engineer. 
+Este repositorio pertenece a un desafío para la posición de data engineer. 
 
 ## **Introducción**
 
